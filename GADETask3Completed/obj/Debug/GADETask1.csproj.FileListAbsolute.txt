@@ -1,0 +1,30 @@
+D:\School\Year 1\Semester 2\GADE\GADETask1\bin\Debug\GADETask1.exe.config
+D:\School\Year 1\Semester 2\GADE\GADETask1\bin\Debug\GADETask1.exe
+D:\School\Year 1\Semester 2\GADE\GADETask1\bin\Debug\GADETask1.pdb
+D:\School\Year 1\Semester 2\GADE\GADETask1\obj\Debug\GADETask1.csprojAssemblyReference.cache
+D:\School\Year 1\Semester 2\GADE\GADETask1\obj\Debug\GADETask1.Form1.resources
+D:\School\Year 1\Semester 2\GADE\GADETask1\obj\Debug\GADETask1.Properties.Resources.resources
+D:\School\Year 1\Semester 2\GADE\GADETask1\obj\Debug\GADETask1.csproj.GenerateResource.cache
+D:\School\Year 1\Semester 2\GADE\GADETask1\obj\Debug\GADETask1.csproj.CoreCompileInputs.cache
+D:\School\Year 1\Semester 2\GADE\GADETask1\obj\Debug\GADETask1.exe
+D:\School\Year 1\Semester 2\GADE\GADETask1\obj\Debug\GADETask1.pdb
+D:\Csharp\GADETask1\bin\Debug\GADETask1.exe.config
+D:\Csharp\GADETask1\bin\Debug\GADETask1.exe
+D:\Csharp\GADETask1\bin\Debug\GADETask1.pdb
+D:\Csharp\GADETask1\obj\Debug\GADETask1.csprojAssemblyReference.cache
+D:\Csharp\GADETask1\obj\Debug\GADETask1.Form1.resources
+D:\Csharp\GADETask1\obj\Debug\GADETask1.Properties.Resources.resources
+D:\Csharp\GADETask1\obj\Debug\GADETask1.csproj.GenerateResource.cache
+D:\Csharp\GADETask1\obj\Debug\GADETask1.csproj.CoreCompileInputs.cache
+D:\Csharp\GADETask1\obj\Debug\GADETask1.exe
+D:\Csharp\GADETask1\obj\Debug\GADETask1.pdb
+D:\Csharp\GADETask2\bin\Debug\GADETask1.exe.config
+D:\Csharp\GADETask2\bin\Debug\GADETask1.exe
+D:\Csharp\GADETask2\bin\Debug\GADETask1.pdb
+D:\Csharp\GADETask2\obj\Debug\GADETask1.csprojAssemblyReference.cache
+D:\Csharp\GADETask2\obj\Debug\GADETask1.Form1.resources
+D:\Csharp\GADETask2\obj\Debug\GADETask1.Properties.Resources.resources
+D:\Csharp\GADETask2\obj\Debug\GADETask1.csproj.GenerateResource.cache
+D:\Csharp\GADETask2\obj\Debug\GADETask1.csproj.CoreCompileInputs.cache
+D:\Csharp\GADETask2\obj\Debug\GADETask1.exe
+D:\Csharp\GADETask2\obj\Debug\GADETask1.pdb
